@@ -1,0 +1,19 @@
+server:
+  host: "127.0.0.1"
+  port: 8400
+
+telegram:
+  bot_token: "YOUR_BOT_TOKEN_HERE"
+  chat_id: "YOUR_CHAT_ID_HERE"
+
+timeouts:
+  default_seconds: 1800
+  max_seconds: 7200
+  expiry_check_seconds: 30
+
+defaults:
+  timeout_action: "deny"
+
+logging:
+  level: "INFO"
+  file: "logs/relay.log"
