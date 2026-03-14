@@ -388,4 +388,4 @@ MIT
 
 ## Author
 
-Built by [Anil](https://github.com/anil) for the OpenClaw community.
+Built by [Anil Jacob](https://github.com/anujcb) for the OpenClaw community.
